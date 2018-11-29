@@ -1,0 +1,4 @@
+Files are key core PHP logic of Streaming Media APP for Drupal displaying at - www.media.reggaestation.net.
+
+video-library-web-details-block.tpl.php	
+video-library-web-list-block.tpl.php
